@@ -1,0 +1,1136 @@
+[
+  {
+    "original_filename": "1_GPLV3.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\1_GPLV3.txt",
+    "expected_license_from_name": "GPL-3.0",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "gpl-3.0-plus",
+          "spdx_license_key": "GPL-3.0-or-later",
+          "name": "GPL-3.0-or-later",
+          "score": 100
+        }
+      ],
+      "primary_license": "GPL-3.0-or-later"
+    },
+    "detected_licenses": [
+      {
+        "key": "gpl-3.0-plus",
+        "spdx_license_key": "GPL-3.0-or-later",
+        "name": "GPL-3.0-or-later",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "GPL-3.0-or-later",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "2_Apache.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\2_Apache.txt",
+    "expected_license_from_name": "Apache-2.0",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "3_Python Software License.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\3_Python Software License.txt",
+    "expected_license_from_name": "Python-2.0",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "ofl-1.1",
+          "spdx_license_key": "OFL-1.1",
+          "name": "OFL-1.1",
+          "score": 100
+        }
+      ],
+      "primary_license": "OFL-1.1"
+    },
+    "detected_licenses": [
+      {
+        "key": "ofl-1.1",
+        "spdx_license_key": "OFL-1.1",
+        "name": "OFL-1.1",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "OFL-1.1",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "4_BSD.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\4_BSD.txt",
+    "expected_license_from_name": "BSD-3-Clause",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "bsd-new",
+          "spdx_license_key": "BSD-3-Clause",
+          "name": "BSD-3-Clause",
+          "score": 100
+        }
+      ],
+      "primary_license": "BSD-3-Clause"
+    },
+    "detected_licenses": [
+      {
+        "key": "bsd-new",
+        "spdx_license_key": "BSD-3-Clause",
+        "name": "BSD-3-Clause",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "BSD-3-Clause",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "5_Apache.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\5_Apache.txt",
+    "expected_license_from_name": "Apache-2.0",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "6_GNU.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\6_GNU.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "gpl-3.0-plus",
+          "spdx_license_key": "GPL-3.0-or-later",
+          "name": "GPL-3.0-or-later",
+          "score": 100
+        }
+      ],
+      "primary_license": "GPL-3.0-or-later"
+    },
+    "detected_licenses": [
+      {
+        "key": "gpl-3.0-plus",
+        "spdx_license_key": "GPL-3.0-or-later",
+        "name": "GPL-3.0-or-later",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "GPL-3.0-or-later",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "7_Atristic.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\7_Atristic.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "gpl-2.0 AND artistic-2.0",
+          "spdx_license_key": "GPL-2.0-only AND Artistic-2.0",
+          "name": "GPL-2.0-only AND Artistic-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "GPL-2.0-only AND Artistic-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "gpl-2.0 AND artistic-2.0",
+        "spdx_license_key": "GPL-2.0-only AND Artistic-2.0",
+        "name": "GPL-2.0-only AND Artistic-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "GPL-2.0-only AND Artistic-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-407.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-407.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-408.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-408.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-409.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-409.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-410.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-410.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-411.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-411.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-412.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-412.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-413.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-413.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-414.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-414.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-415.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-415.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-416.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-416.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-417.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-417.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-418.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-418.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-419.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-419.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-420.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-420.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-421.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-421.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-422.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-422.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-423.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-423.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-424.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-424.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-425.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-425.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-426.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-426.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-427.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-427.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-428.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-428.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-429.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-429.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-430.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-430.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-431.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-431.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-432.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-432.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-433.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-433.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-434.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-434.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-435.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-435.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-436.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-436.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-437.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-437.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-438.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-438.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-439.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-439.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-440.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-440.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  },
+  {
+    "original_filename": "inline-license-441.txt",
+    "file_path": "C:/Users/HYP/Desktop/论文模板/RQ3_data\\inline-license-441.txt",
+    "expected_license_from_name": "Unknown",
+    "scan_result": {
+      "detected_licenses": [
+        {
+          "key": "apache-2.0",
+          "spdx_license_key": "Apache-2.0",
+          "name": "Apache-2.0",
+          "score": 100
+        }
+      ],
+      "primary_license": "Apache-2.0"
+    },
+    "detected_licenses": [
+      {
+        "key": "apache-2.0",
+        "spdx_license_key": "Apache-2.0",
+        "name": "Apache-2.0",
+        "score": 100
+      }
+    ],
+    "primary_detected_license": "Apache-2.0",
+    "scan_status": "success",
+    "error_message": null
+  }
+]

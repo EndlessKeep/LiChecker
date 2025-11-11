@@ -1,0 +1,11 @@
+O
+B-Condition
+I-Condition
+B-Action
+I-Action
+B-Recipient
+I-Recipient
+B-Attitude
+I-Attitude
+B-Exception
+I-Exception
